@@ -9,7 +9,8 @@
 ## github: https://github.com/juraeva-malika
 
 # EMPLOYMENT
-## July 2021 - Present: Engineer at JSC "Telecom Data"
+## July 2021 - Present: Engineer at JSC "Uzbektelecom" branch of "Telecom Data"
+## June 2019 - July 2021: Engineer at JSC "Uzbektelecom" branch of "Infosystems"
 
 # EDUCATION
 ## 2016 - 2020 Bachelor degree in Computer Science at INHA University in Tashkent
