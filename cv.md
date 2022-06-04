@@ -5,6 +5,9 @@
 
 ###### *Meticulous web developer with almost 3 years of front end experience and passion for responsive website design and a firm believer in the mobile-first approach. Ambitious and hard working, stress resistant, sociable and creative.* 
 
+#### EXPERIENCE
+I have made lots of responsive web-sites (any complexity) with HTML/CSS and Bootstrap, so I have a good experience in layouting pages. I've worked with projects like e-commerence websites, landing pages, blogs and they are done in Laravel and React
+
 #### SKILLS
 - HTML, CSS/SCSS
 - Bootstrap
@@ -26,7 +29,7 @@
 + Decision Making Skills
 
 #### EDUCATION
-+ 2016 - 2020 Bachelor degree in Computer Science at INHA University in Tashkent
++ 2016 - 2020 y. Bachelor degree in Computer Science at INHA University in Tashkent
 
 #### EMPLOYMENT
 + June 2022 - Present: Engineer at JSC "Uzbektelecom" branch of "Telecom Data"
