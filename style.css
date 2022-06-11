@@ -1,8 +1,17 @@
+/* @font-face {
+    font-family: "CustomFont";
+    src: url("OpenSans/OpenSans-Bold.ttf");
+    src: url("OpenSans/OpenSans-Medium.ttf");
+    src: url("OpenSans/OpenSans-Regular.ttf");
+    src: url("OpenSans/OpenSans-SemiBold.ttf");
+} */
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
 body{
     /* text-align: center; */
     width:100%;
     padding:0;
     margin:0;
+    font-family: 'Open Sans', sans-serif;
 }
 .wrapper{
     width:100%;
@@ -72,10 +81,16 @@ h4, h6, h5, p{
     height:250px;
     display:flex;
     justify-content:center;
+    -moz-box-shadow:    inset 0 0 10px #21212F;
+    -webkit-box-shadow: inset 0 0 10px #21212F;
+    box-shadow:         inset 0 0 400px #21212F;
 }
 .about-section .img-wrapper .colored-bg img{
     width:auto;
     height:100%;
+    -moz-box-shadow:    3px 3px 2px 0px #21212F;
+    -webkit-box-shadow: 3px 3px 2px 0px #21212F;
+    box-shadow:         3px 3px 2px 0px #21212F;
 }
 .about-section .about-description{
     display: flex;
