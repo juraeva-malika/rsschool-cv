@@ -27,15 +27,3 @@ I have made lots of responsive web-sites (any complexity) with HTML/CSS and Boot
 + Make web pages best speed and scalability
 + Critical Thinking Skills
 + Decision Making Skills
-
-#### EDUCATION
-+ 2016 - 2020 y. Bachelor degree in Computer Science at INHA University in Tashkent
-
-#### EMPLOYMENT
-+ June 2022 - Present: Engineer at JSC "Uzbektelecom" branch of "Telecom Data"
-+ June 2019 - July 2021: Engineer at JSC "Uzbektelecom" branch of "Infosystems"
-
-#### LANGUAGES
-* Uzbek: native
-* Russian: fluent 
-* English:Upper Intermediate (ielts-5.5 score and 4 years of study at the university)
