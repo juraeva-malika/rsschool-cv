@@ -17,3 +17,180 @@ body{
 h1, h3, h2, p{
     margin:0;
 }
+.top-bar,
+section.about,
+section.education-experience,
+section.skills{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    padding:0 30px;
+    color:black;
+    box-sizing:border-box;
+}
+.top-bar{
+    padding: 30px 30px 0 30px;
+}
+.top-bar h3{
+    font-size:16px;
+    margin-bottom:10px;
+}
+.top-bar p{
+    font-size:14px;
+}
+.top-bar .location-wrapper{
+    background-color:#FFCC00;
+    padding: 30px;
+    display: flex;
+}
+.top-bar .location-wrapper .location-outter{
+    display: flex;
+    align-items: center;
+}
+.top-bar .location-wrapper .location-outter .div{
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+}
+.top-bar .location-wrapper div i{
+    margin-right:15px;
+    font-size:25px;
+}
+.top-bar .collection{
+    display:flex;
+    justify-content: space-between;
+    padding:30px;
+}
+.top-bar .collection{
+    text-align:left;
+}
+section.about{
+    background-color:#21212F;
+}
+section.about .img-wrapper .colored-bg{
+    background-color:#FFCC00;
+    padding:30px;
+    width:auto;
+    min-height:250px;
+    display:flex;
+    justify-content:center;
+    -moz-box-shadow:    inset 0 0 10px #21212F;
+    -webkit-box-shadow: inset 0 0 10px #21212F;
+    box-shadow:         inset 0 0 400px #21212F;
+}
+section.about .img-wrapper .colored-bg img{
+    width:100%;
+    height:auto;
+    -moz-box-shadow:    3px 3px 2px 0px #21212F;
+    -webkit-box-shadow: 3px 3px 2px 0px #21212F;
+    box-shadow:         3px 3px 2px 0px #21212F;
+}
+section.about .about-description{
+    display: flex;
+    flex-flow:column;
+    text-align:left;
+    padding:20px;
+    color:white;
+}
+section.about .about-description hr{
+    border:2px solid #FFCC00;
+    width:200px;
+    float:left;
+    margin:0 0 10px 0px;
+}
+section.about .about-description h1{
+    font-size:44px;
+    font-weight:500px;
+    margin-bottom:10px;
+}
+section.about .about-description .sub-title{
+    letter-spacing:0.2rem;
+    font-size:22px;
+    margin-bottom:30px;
+}
+section.about .about-description article{
+    width:50%;
+    font-size:16px;
+}
+section.education-experience .education-wrapper,
+section.skills .prog-skills-wrapper{
+    background-color:#FFCC00;
+    padding:30px 0 0  30px;
+}
+section.education-experience .education-wrapper h2,
+section.education-experience .experience-wrapper h2,
+section.skills h2{
+    font-size:28px;
+    margin-bottom :20px;
+}
+section.education-experience .education-wrapper h3,
+section.education-experience .experience-wrapper h3{
+    font-size:24px;
+    margin-bottom:15px;
+    font-weight:500 !important;
+}
+section.education-experience .education-wrapper hr,
+section.skills hr{
+    border:2px solid #EAB628;
+    width:99%;
+    float:left;
+    margin:0 0 10px 0px;
+}
+section.education-experience .experience-wrapper hr,
+section.skills .personal-lang-skills hr{
+    border:2px solid #F0F0F0;
+    width:100%;
+    float:left;
+    margin:0 0 10px 0px;
+}
+section.education-experience .education-wrapper p,
+section.education-experience .experience-wrapper p{
+    margin-bottom:20px;
+}
+section.education-experience .education-wrapper p.period,
+section.education-experience .experience-wrapper p.period{
+    padding:5px;
+    background:black;
+    color:white;
+    border-radius:5px;
+    margin-bottom:10px;
+    display: inline-block;
+}
+section.education-experience .experience-wrapper,
+section.skills .prog-skills-wrapper,
+section.skills .personal-skills-wrapper,
+section.skills .lang-skills-wrapper{
+    padding:30px 0 0  30px;
+}
+section.skills{
+    padding-bottom:60px;
+}
+section.skills ul li{
+    margin-bottom:10px;
+}
+section.skills .example-code{
+    padding-top:10px;
+    padding-bottom:20px;
+}
+footer{
+    min-height:100px;
+    padding:30px;
+    background-color:#EAB628;
+    box-sizing: border-box;
+    border-top:3px solid #21212F;
+}
+footer ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+footer ul li{
+    list-style: none;
+}
+footer li img{
+    width:100px;
+    height:auto;  
+}
+footer ul li a{
+    text-decoration:none;
+    color:black;
+}
